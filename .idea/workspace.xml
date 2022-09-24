@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ab17ed7-afe5-4609-a117-9d5b94b07c52" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4/ex2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task4/ex2/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,14 +44,14 @@
       <recent name="D:\work\proj\java\java-university\src\task3\ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task5.ex1" />
       <recent name="task4.ex2" />
       <recent name="task3.ex2" />
       <recent name="task3.ex1" />
       <recent name="task2.ex4" />
-      <recent name="task2.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task4.ex2.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task3.ex3.BookTest" />
       <module name="java-university" />
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.ex1.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.ex1.Main" />
       <module name="java-university" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task2.ex1.*" />
+          <option name="PATTERN" value="task5.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.task4.ex2.Main" />
         <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.task3.ex2.Main" />
         <item itemvalue="Application.task2.ex4.Main" />
-        <item itemvalue="Application.task2.ex1.Main" />
       </list>
     </recent_temporary>
   </component>
