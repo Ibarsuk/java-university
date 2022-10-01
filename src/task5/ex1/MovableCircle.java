@@ -1,8 +1,8 @@
 package task5.ex1;
 
 public class MovableCircle implements Movable{
-    private int radius;
-    private MovablePoint center;
+    private final int radius;
+    private final MovablePoint center;
 
     public MovableCircle(int x, int y, int xSpeed, int ySpeed, int radius) {
         this.radius = radius;
@@ -26,7 +26,7 @@ public class MovableCircle implements Movable{
 
     @Override
     public void moveRight() {
-        this.moveRight();
+        this.center.moveRight();
     }
 
     @Override
