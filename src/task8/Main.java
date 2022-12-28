@@ -161,7 +161,7 @@ class Main extends JFrame {
     void animate(String frames_path, Graphics2D g) {
         File dir = new File(frames_path);
         while (true) {
-            for (File file : dir.listFiles()) {
+            for (File file : Objects.requireNonNull(dir.listFiles())) {
                 Image frame = Toolkit.getDefaultToolkit().getImage(file.getPath());
                 g.drawImage(frame, 0, 0, WINDOW_WIDTH, WINDOW_HEIGHT, this);
                 try { Thread.sleep(500); } catch (InterruptedException e) {}
