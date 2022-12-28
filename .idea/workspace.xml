@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ab17ed7-afe5-4609-a117-9d5b94b07c52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task8/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="task3.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tester">
+  <component name="RunManager" selected="Application.Strategy">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task25.Main" />
       <module name="java-university" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task24.ex4.PhoneParser" />
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task26.ex1.QueueTest" />
       <module name="java-university" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task24.ex4.*" />
+          <option name="PATTERN" value="task26.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task26.ex1.QueueTest" />
+    <configuration name="Strategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task28.Strategy" />
       <module name="java-university" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task26.ex1.*" />
+          <option name="PATTERN" value="task28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PhoneParser" />
       <item itemvalue="Application.QueueTest" />
+      <item itemvalue="Application.Strategy" />
       <item itemvalue="Application.Tester" />
       <item itemvalue="Application.WordConcatenator" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strategy" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.QueueTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.WordConcatenator" />
-        <item itemvalue="Application.PhoneParser" />
       </list>
     </recent_temporary>
   </component>
